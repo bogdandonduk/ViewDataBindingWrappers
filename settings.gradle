@@ -1,0 +1,3 @@
+rootProject.name = "ViewDataBindingWrappers"
+include ':app'
+include ':ViewDataBindingWrappersAndroidLib'
